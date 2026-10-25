@@ -1,0 +1,9 @@
+{
+  "name": "wattguard-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WattGuard AI energy monitoring backend",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
